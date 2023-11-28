@@ -14,20 +14,20 @@ This repository is a collection of my personal solutions to LeetCode problems. I
 
 bash
 
-/leetcode_problems
-├── easy
-│   ├── problem_1
-│   │   ├── solution.py
-│   │   └── README.md
-├── medium
-│   ├── problem_1
-│   │   ├── solution.js
-│   │   └── README.md
-└── hard
-    ├── problem_1
-    │   ├── solution.py
-    │   └── README.md
-
+/leetcode_problems  
+├── easy   
+│   ├── problem_1  
+│   │   ├── solution.java    
+│   │   └── README.md  
+├── medium  
+│   ├── problem_1  
+│   │   ├── solution.java  
+│   │   └── README.md  
+└── hard  
+    ├── problem_1  
+    │   ├── solution.java   
+    │   └── README.md   
+   
 ## How to Navigate 🧭
 
     By Difficulty: Folders are categorized as easy, medium, and hard.
