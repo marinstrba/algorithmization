@@ -1,0 +1,3 @@
+# Circle Slicing README 🍕
+
+Welcome to the Circle Slicing repository! This unique and engaging codebase provides a solution to a geometrically fascinating problem: determining the minimum number of straight-line cuts needed to divide a circle into n equal slices. Whether you're a math enthusiast, a coding hobbyist, or someone who just loves solving puzzles, this repository is sure to provide an intriguing challenge.
