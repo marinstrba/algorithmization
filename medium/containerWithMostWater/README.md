@@ -1,0 +1,3 @@
+# Container With Most Water Solver 🌊
+
+Welcome to the Container With Most Water Solver repository! This codebase is dedicated to solving a fascinating and classic problem in computational geometry and optimization. Given an array of integers representing the heights of vertical lines, this solver identifies the two lines that, together with the x-axis, can form a container holding the maximum amount of water. It's a perfect blend of   mathematical rigor and coding finesse, presented in a way that's both professional and engaging!  
