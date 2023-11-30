@@ -21,12 +21,13 @@ public class Exercise02
 			deviation += dataNumbers[i];
 		}
 		deviation = Math.sqrt(deviation);
+		return (String.format("%2d %.3f %.3f \n", countOfNums, average, deviation));
 	}
 
 	public void homework()
 	{
 		int	lineCounter = 0;
-		int	notNumbers = 0;
+		int	notNumbers = 1;
 		String current = " ";
 		String[] data = new String[10];
 
@@ -46,13 +47,15 @@ public class Exercise02
 			}
 			if (lineCounter == 10)
 			{
-				calculateDeviation(lineCounter, data);
+				System.out.print(calculateDeviation(lineCounter, data));
 				lineCounter = 0;
 			}
 		}
+		System.out.println("End of input detected!");
 		if (lineCounter > 1)
 		{
-			calculateDeviation(lineCounter, data);
+			System.out.print(calculateDeviation(lineCounter, data));
 		}
+
 	}
 }
