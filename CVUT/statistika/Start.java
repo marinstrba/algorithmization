@@ -3,9 +3,9 @@ package CVUT.statistika;
 
 public class Start {
 
-	public static void main(String[] args) {
+	public static void main(String[] args)
+	{
 		Exercise02 ex02 = new Exercise02();
-		ex02.	public void homework(String[] args)
-		();
+		ex02.homework();
 	}
 }
