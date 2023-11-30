@@ -66,17 +66,23 @@ public class CircularArrayQueue implements Queue {
     public String dequeue() {
 		if (this.isEmpty())
 			return null;
-		String temp = this.arrQueue[this.front];
+		String temp = this.arrQueue[front];
 		if (front == rear)
 			front = rear = -1;
 		else
-			front++;
+			front = (front + 1) % this.capacity;
 		return temp;
     }
 
     @Override
     public void printAllElements() {
-		for (int i = 0; i < this.capacity; ++i)
-			System.out.printf("%s ",this.arrQueue[i]);
+		int i = front;
+		if (this.isEmpty())
+			return ;
+		do
+		{
+			System.out.println(this.arrQueue[i]);
+			front = (front + 1) % this.capacity;
+		} while (i != (rear + 1) % this.capacity);
     }
 }
