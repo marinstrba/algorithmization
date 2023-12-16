@@ -1,20 +1,11 @@
-# LeetCode Solutions Repository 🚀
+# Algorithmization Repository 🚀
 
-Welcome to my LeetCode Solutions Repository! Here, I dive into the world of algorithmic challenges, showcasing my solutions to various problems from LeetCode. Whether you're a fellow coding enthusiast, a recruiter, or just someone curious about coding puzzles, you're in the right place! 🧩  
-## What's Inside? 📚 
-
-This repository is a collection of my personal solutions to LeetCode problems. It includes:
-  
-    Well-commented code: For easier understanding and learning.
-    Problem statements: Each solution is accompanied by the original problem statement.
-    Complexity analysis: Time and space complexity are discussed for each solution.
-    Language of choice: Primarily Python and JavaScript.
-
+Welcome to my L Repository! Here, I dive into the world of algorithmic challenges, showcasing my solutions to various problem.   
 ## Repository Structure 🏗️
 
 bash
 
-/leetcode_problems  
+/algorithmization  
 ├── easy   
 │   ├── problem_1  
 │   │   ├── solution.java    
