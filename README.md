@@ -1,26 +1,43 @@
 # Algorithmization Repository 🚀
 
-Welcome to my L Repository! Here, I dive into the world of algorithmic challenges, showcasing my solutions to various problem.   
+Welcome to my algorithmization Repository! Here i tackle most frequent algorithmization problems from leetcode.
+
+
 ## Repository Structure 🏗️
 
 bash
 
-/algorithmization  
-├── easy   
-│   ├── problem_1  
-│   │   ├── solution.java    
-│   │   └── README.md  
-├── medium  
-│   ├── problem_1  
-│   │   ├── solution.java  
-│   │   └── README.md  
-└── hard  
-    ├── problem_1  
-    │   ├── solution.java   
-    │   └── README.md   
+/algorithmization
+├── Array
+│ ├── problem_1
+│ │ ├── solution.java
+│ │ └── README.md
+├── Matrix
+│ ├── problem_1
+│ │ ├── solution.java
+│ │ └── README.md
+├── String
+│ ├── problem_1
+│ │ ├── solution.java
+│ │ └── README.md
+├── Linked List
+│ ├── problem_1
+│ │ ├── solution.java
+│ │ └── README.md
+├── Tree
+│ ├── problem_1
+│ │ ├── solution.java
+│ │ └── README.md
+├── Graph
+│ ├── problem_1
+│ │ ├── solution.java
+│ │ └── README.md
+└── Others
+├── problem_1
+│ ├── solution.java
+│ └── README.md
    
 ## How to Navigate 🧭
 
-    By Difficulty: Folders are categorized as easy, medium, and hard.
-    By Language: Check the file extension; .py for Python and .js for JavaScript.
-    By Problem: Each folder within the difficulty category is named after a problem.
+By Data Structure: Each major folder (Array, Matrix, etc.) corresponds to a specific data structure. Dive into the one you're interested in!
+By Problem: Each sub-folder within the main category is dedicated to a particular problem, complete with its own solution and README for context and explanations.
