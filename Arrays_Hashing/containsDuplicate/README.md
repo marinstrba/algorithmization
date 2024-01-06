@@ -1,7 +1,7 @@
 # DuplicateFinder: Java Solution for Array Duplication Check
-## Introduction 🚀
+## Introduction 🚀  
 
-DuplicateFinder is a highly efficient Java tool crafted for detecting duplicates in integer arrays. Designed for both professionals and hobbyists, this tool provides a swift and reliable way to verify the uniqueness of elements in arrays.
+DuplicateFinder is a highly efficient Java tool crafted for detecting duplicates in integer arrays. Designed for both professionals and hobbyists, this tool provides a swift and reliable way to verify the uniqueness of elements in arrays.  
 ## Key Features 🌟  
 
     Efficient Detection: Utilizes optimized Java methods to identify duplicates in an array.  
